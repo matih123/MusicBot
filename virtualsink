@@ -1,0 +1,4 @@
+#!/bin/bash
+pacmd load-module module-null-sink sink_name=MySink
+pacmd update-sink-proplist MySink device.description=MySink
+pacmd load-module module-loopback sink=MySink
