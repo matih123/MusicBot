@@ -1,2 +1,2 @@
-# Teamspeak3 MusicBot
-MusicBot for ts3 made in python.
+# MusicBot
+Teamspeak3 youtube musicbot made in python.
